@@ -9,4 +9,4 @@
 
 ***
 
-* 需求讨论 [![Join the chat at https://gitter.im/busterlinker/test](https://badges.gitter.im/busterlinker/test.svg)](https://gitter.im/busterlinker/test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/busterlinker/test](https://badges.gitter.im/busterlinker/test.svg)](https://gitter.im/busterlinker/test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
