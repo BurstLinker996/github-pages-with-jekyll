@@ -2,4 +2,4 @@
 title: "新手博客"
 ---
 
-I'm glad you are here. I plan to talk about ...
+虽然不知道要写什么，但是先占个位吧。
