@@ -1,13 +1,12 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# 最近画的饼
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+## 漫画订阅工具？
+* 需求列表
 
-Oh! I haven't introduced myself...
+- [ ] 爬取漫画排行榜
+- [ ] 从漫画排行榜订阅漫画
+- [ ] 每订阅一部漫画，则添加一个自动爬取漫画更新（最新话）的任务到爬虫队列里。建立定时任务，定时执行爬虫队列里的漫画爬取任务。
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+***
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+* 需求讨论 [![Join the chat at https://gitter.im/busterlinker/test](https://badges.gitter.im/busterlinker/test.svg)](https://gitter.im/busterlinker/test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
