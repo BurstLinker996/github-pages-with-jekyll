@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "我关注的Github项目备注"
 ---
 
 ## 安卓设备投屏
