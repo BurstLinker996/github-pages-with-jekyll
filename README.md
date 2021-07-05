@@ -9,7 +9,7 @@
 
 ***
 ## 参考的开源项目
-[ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs)
-[tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+* [ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs)
+* [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 
 [![Join the chat at https://gitter.im/busterlinker/test](https://badges.gitter.im/busterlinker/test.svg)](https://gitter.im/busterlinker/test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
