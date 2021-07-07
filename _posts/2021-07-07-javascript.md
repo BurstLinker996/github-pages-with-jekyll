@@ -1,10 +1,16 @@
 ---
-title:  "javascript一些方法"
+title:  "JavaScript获取最近X天的方法"
 ---
-# Welcome
+# 
 
-## 7777
-**Hello world**, this is my first Jekyll blog post.
-# 6666
-I hope you like it!
-# 1231232
+```JavaScript
+function getDay(days) {
+    return Array.from(new Array(days).keys()).map(i => {
+            const time = new Date(new Date().setDate(new Date().getDate() + i - days));
+            const year = time.getFullYear();
+            const month = `0${time.getMonth() + 1}`.slice(-2);
+            const strDate = `0${time.getDate()}`.slice(-2);
+            return `${year}-${month}-${strDate}`
+        })
+    }
+```
