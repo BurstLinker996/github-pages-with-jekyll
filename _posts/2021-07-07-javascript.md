@@ -1,7 +1,6 @@
 ---
 title:  "JavaScript获取最近X天的方法"
 ---
-# 
 
 ```JavaScript
 function getDay(days) {
