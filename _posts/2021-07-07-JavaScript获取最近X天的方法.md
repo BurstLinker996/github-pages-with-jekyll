@@ -1,8 +1,5 @@
 ---
-
 ---
-
-
 ```JavaScript
 function getDay(days) {
     return Array.from(new Array(days).keys()).map(i => {
