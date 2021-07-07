@@ -1,11 +1,10 @@
 ---
 title:  "javascript一些方法"
 ---
-# 123
-## haha
+
+# Welcome
+## 7777
 **Hello world**, this is my first Jekyll blog post.
-
+# 6666
 I hope you like it!
-
-# 123123
-## ffff
+# 1231232
