@@ -1,7 +1,7 @@
 ---
-excerpt_separator: <!--more-->
+
 ---
-# JavaScript获取最近X天的方法
+
 
 ```JavaScript
 function getDay(days) {
@@ -14,5 +14,3 @@ function getDay(days) {
         })
     }
 ```
-<!--more-->
-Out-of-excerpt
